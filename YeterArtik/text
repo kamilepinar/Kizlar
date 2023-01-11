@@ -1,0 +1,5 @@
+add: Local working directory  staging ekle
+commit: staging area ya save yapiiyor
+push: remote repo gonder
+branch:  sicmayin diye ozel actiginiz kendi calisma alaniniz
+merge: farkli brancler arasinda classlarin paylasimi
