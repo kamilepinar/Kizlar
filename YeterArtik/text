@@ -4,7 +4,7 @@ push: remote repo gonder
 branch: sicmayak diye ozel actiginiz kendi calisma alaniniz
 merge: farkli brancler arasinda classlarin paylasimi
 pull: remotedan locale cekmek icin
-ush: localden remota yollamak icin
+push: localden remota yollamak icin
 pull request: remotedan remote cekmek icin(branchler arasi rewmotta)
 fork: remote dan remota copy
 clone: remote dan locale copy
